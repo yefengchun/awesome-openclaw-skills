@@ -963,6 +963,12 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [comfy-cli](https://github.com/openclaw/skills/tree/main/skills/johntheyoung/comfy-cli/SKILL.md) - Install, manage, and run ComfyUI instances.
 - [comfyui](https://github.com/openclaw/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md) - Send a workflow request to ComfyUI and return image results.
 - [Excalidraw Flowchart](https://github.com/openclaw/skills/tree/main/skills/swiftlysingh/excalidraw-flowchart/SKILL.md) - Create Excalidraw flowcharts from descriptions.
+- [eachlabs-face-swap](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-face-swap/SKILL.md) - Swap faces between images using EachLabs AI.
+- [eachlabs-fashion-ai](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-fashion-ai/SKILL.md) - Generate fashion imagery, virtual try-on, runway videos.
+- [eachlabs-image-edit](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-edit/SKILL.md) - Edit, transform, upscale images using 200+ AI models.
+- [eachlabs-image-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-generation/SKILL.md) - Generate images with Flux, GPT Image, Gemini, Imagen.
+- [eachlabs-video-edit](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-edit/SKILL.md) - Edit videos with lip sync, translation, subtitles.
+- [eachlabs-video-generation](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-generation/SKILL.md) - Generate videos from text/images using AI models.
 - [fal-ai](https://github.com/openclaw/skills/tree/main/skills/agmmnn/fal-ai/SKILL.md) - Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.).
 - [fal-text-to-image](https://github.com/openclaw/skills/tree/main/skills/delorenj/fal-text-to-image/SKILL.md) - Generate, remix, and edit images using fal.ai's AI
 - [ffmpeg-video-editor](https://github.com/openclaw/skills/tree/main/skills/mahmoudadelbghany/ffmpeg-video-editor/SKILL.md) - Generate FFmpeg commands from natural
@@ -2251,6 +2257,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [clawtunes](https://github.com/openclaw/skills/tree/main/skills/forketyfork/clawtunes/SKILL.md) - Control Apple Music on macOS via the `clawtunes` CLI
 - [content-recycler](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/content-recycler/SKILL.md) - Transform and repurpose content across multiple
 - [donson-intelligent-editing](https://github.com/openclaw/skills/tree/main/skills/donsonaicenter/donson-intelligent-editing/SKILL.md) - Use when performing video/audio
+- [eachlabs-music](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-music/SKILL.md) - Generate songs, instrumentals, lyrics, podcasts using Mureka AI.
 - [elevenlabs-skill](https://github.com/openclaw/skills/tree/main/skills/odrobnik/elevenlabs-skill/SKILL.md) - Text-to-speech, sound effects, music generation, voice
 - [exile-galacticfracture](https://github.com/openclaw/skills/tree/main/skills/dantunes-github/exile-galacticfracture/SKILL.md) - An entertainment micro-skill.
 - [ffmpeg-master](https://github.com/openclaw/skills/tree/main/skills/liudu2326526/ffmpeg-master/SKILL.md) - Use when performing video/audio processing tasks
@@ -2811,6 +2818,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [doubao-api-open-tts](https://github.com/openclaw/skills/tree/main/skills/xdrshjr/doubao-api-open-tts/SKILL.md) - Text-to-Speech service using Doubao (Volcano Engine)
 - [duby](https://github.com/openclaw/skills/tree/main/skills/autogame-17/duby/SKILL.md) - Convert text to speech using Duby.so API.
 - [eachlabs-tts](https://github.com/openclaw/skills/tree/main/skills/fatih-developer/eachlabs-tts/SKILL.md) - Transcribe audio from URL using EachLabs Speech-to-Text
+- [eachlabs-voice-audio](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-voice-audio/SKILL.md) - TTS, STT, voice conversion using ElevenLabs, Whisper, RVC.
 - [easyverein-api](https://github.com/openclaw/skills/tree/main/skills/truefoobar/easyverein-api/SKILL.md) - Work with the easyVerein v2.0 REST API
 - [edge-tts](https://github.com/openclaw/skills/tree/main/skills/i3130002/edge-tts/SKILL.md) - |.
 - [elevenlabs-agents](https://github.com/openclaw/skills/tree/main/skills/pennyroyaltea/elevenlabs-agents/SKILL.md) - Create, manage, and deploy ElevenLabs
@@ -2942,6 +2950,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [clawpify](https://github.com/openclaw/skills/tree/main/skills/alhwyn/clawpify/SKILL.md) - Query and manage Shopify stores via GraphQL Admin API.
 - [clawver-digital-products](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-digital-products/SKILL.md) - Create and sell digital products
 - [clawver-reviews](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-reviews/SKILL.md) - Handle Clawver customer reviews.
+- [eachlabs-product-visuals](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-product-visuals/SKILL.md) - Generate e-commerce product photography and videos.
 - [closing-deals](https://github.com/openclaw/skills/tree/main/skills/jk-0001/closing-deals/SKILL.md) - Close sales deals consistently as a solopreneur.
 - [event-planner](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/event-planner/SKILL.md) - Plan events
 - [food-order](https://github.com/openclaw/skills/tree/main/skills/steipete/food-order/SKILL.md) - Reorder Foodora orders + track ETA/status with ordercli.
